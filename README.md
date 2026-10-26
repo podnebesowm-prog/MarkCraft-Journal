@@ -6,7 +6,7 @@ Welcome to the official repository! Here you can download the latest version of 
 
 
 
-#Installation
+Installation
 
 1. Go to the **Releases** section on the right side of this page.
 2. Download the latest archive (`MarkCraftJournal_1.0_Official.zip`).
